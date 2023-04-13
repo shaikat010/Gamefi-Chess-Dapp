@@ -12,3 +12,6 @@ Chess game written in python with the pygame library.
 
 ## Storing Winning Status in Blockchain
 ![image](https://user-images.githubusercontent.com/68814937/231734285-e3994ab0-800f-4c22-af56-6ab67448c618.png)
+
+# Reocrd Made in the Ganache Local Blockchain
+![image](https://user-images.githubusercontent.com/68814937/231734614-df613a29-781e-45b4-b1d0-3b53bec94ed8.png)
