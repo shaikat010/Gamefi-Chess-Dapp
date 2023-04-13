@@ -9,3 +9,6 @@ Chess game written in python with the pygame library.
 
 ## Winner Menu
 ![checkmate](https://user-images.githubusercontent.com/24194821/57589723-cf907c00-74eb-11e9-8b42-aef703c3e1f8.png)
+
+## Storing Winning Status in Blockchain
+![image](https://user-images.githubusercontent.com/68814937/231734285-e3994ab0-800f-4c22-af56-6ab67448c618.png)
