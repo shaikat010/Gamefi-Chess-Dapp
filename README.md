@@ -1,4 +1,4 @@
-# pygame-chess
+# pygame-chess-dapp
 Chess game written in python with the pygame library.
 
 ## Game Menu
@@ -15,3 +15,6 @@ Chess game written in python with the pygame library.
 
 # Reocrd Made in the Ganache Local Blockchain
 ![image](https://user-images.githubusercontent.com/68814937/231734614-df613a29-781e-45b4-b1d0-3b53bec94ed8.png)
+
+# Confirmation Prompt
+![image](https://user-images.githubusercontent.com/68814937/232084314-a9bac090-8dbb-47c5-a3cc-ae2dc9067e23.png)
